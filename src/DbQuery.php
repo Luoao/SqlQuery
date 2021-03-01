@@ -1,6 +1,6 @@
 <?php
 
-namespace kernel;
+namespace Carl;
 
 class DbQuery {
     private $query = [];
