@@ -1,0 +1,10 @@
+{
+    "name": "carl/sqlquery",
+    "authors": [
+        {
+            "name": "Carl",
+            "email": "luohao.me@qq.com"
+        }
+    ],
+    "require": {}
+}
