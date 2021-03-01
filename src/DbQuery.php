@@ -1,6 +1,6 @@
 <?php
 
-namespace Carl;
+namespace carl;
 
 class DbQuery {
     private $query = [];
