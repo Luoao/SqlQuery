@@ -11,7 +11,7 @@ class DbQuery {
     private $limit = [];
     private $mysql_db = null;
 
-    function __construct($mysql_db = null) {
+    function __construct(Database $mysql_db = null) {
         $this->mysql_db = $mysql_db;
     }
 
