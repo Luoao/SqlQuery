@@ -6,5 +6,10 @@
             "email": "luohao.me@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
 }
